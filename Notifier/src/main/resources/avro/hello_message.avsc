@@ -1,0 +1,15 @@
+{
+  "type": "record",
+  "namespace": "ru.semura.messages",
+  "name": "HelloWorld",
+  "fields": [
+    {
+      "name": "id",
+      "type": "int"
+    },
+    {
+      "name": "text",
+      "type": "string"
+    }
+  ]
+}
